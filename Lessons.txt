@@ -1,0 +1,250 @@
+1
+ΚΟΙΝΩΝΙΚΗΣ ΔΙΟΙΚΗΣΗΣ ΚΑΙ ΠΟΛΙΤΙΚΗΣ ΕΠΙΣΤΗΜΗΣ
+ΚΟΙΝΩΝΙΚΗ ΠΟΛΙΤΙΚΗ
+Τοπική Αυτοδιοίκηση και Κοινωνική Πολιτική
+ΧΕΙΜΕΡΙΝΟ
+3
+3
+ΕΠΙΛΟΓΗΣ
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer placerat venenatis sapien. Maecenas elementum, mi et finibus pulvinar, odio ex auctor erat, finibus dictum magna dolor eget arcu. Duis feugiat tincidunt eros a aliquam. Suspendisse sodales purus et nulla eleifend vestibulum. Curabitur pulvinar sit amet leo non convallis. Pellentesque pretium, ligula feugiat posuere ullamcorper, tortor sem laoreet massa, quis vulputate sapien metus ac urna. Aenean suscipit ullamcorper purus ut fringilla. Vestibulum semper ex cursus leo auctor dapibus. Ut at enim a nibh condimentum venenatis sit amet ut mi. Donec elit neque, hendrerit non augue sed, egestas imperdiet est. Etiam in est orci. Phasellus dignissim ultrices turpis quis pellentesque. 
+Ευρωπαϊκή Κοινωνική Πολιτική
+ΕΑΡΙΝΟ
+2
+2
+ΕΠΙΛΟΓΗΣ
+In interdum libero a sapien sollicitudin sodales. Maecenas ex lorem, tincidunt eget nibh quis, fringilla fringilla erat. Suspendisse ut ex felis. Donec in metus suscipit, maximus ex sit amet, condimentum massa. Aenean placerat ante sit amet molestie facilisis. Curabitur egestas risus at diam facilisis aliquet. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris eleifend tincidunt velit, vel tincidunt mauris finibus id. Aenean porttitor sit amet purus at tincidunt. Ut ultricies neque lectus, nec scelerisque nibh placerat et. Mauris gravida tincidunt nisi, ac euismod lorem dapibus a. Maecenas in orci vel magna suscipit efficitur tincidunt quis velit. Nulla sollicitudin tristique eros, in ullamcorper augue convallis at. 
+Εισαγωγή στην Κοινωνική Πολιτική
+ΧΕΙΜΕΡΙΝΟ
+4
+4
+ΥΠΟΧΡΕΩΤΙΚΟ
+Fusce quis suscipit mauris. Pellentesque dui mi, imperdiet at odio id, fermentum consectetur odio. Sed a pretium massa. Curabitur bibendum ligula at laoreet volutpat. Morbi gravida sapien purus, ac pharetra erat volutpat et. Sed neque mi, mattis viverra aliquam id, feugiat fermentum magna. Nam quis mauris nunc. Nulla a nisi in dui imperdiet tincidunt. Phasellus lobortis tincidunt mauris, ut viverra nulla pulvinar ut. 
+teacher1
+teacher2
+teacher3
+END
+2
+ΚΟΙΝΩΝΙΚΗΣ ΔΙΟΙΚΗΣΗΣ ΚΑΙ ΠΟΛΙΤΙΚΗΣ ΕΠΙΣΤΗΜΗΣ
+ΠΛΗΡΟΦΟΡΙΚΗ
+Εισαγωγή στην Πληροφορική
+ΧΕΙΜΕΡΙΝΟ
+5
+5
+ΕΠΙΛΟΓΗΣ
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer placerat venenatis sapien. Maecenas elementum, mi et finibus pulvinar, odio ex auctor erat, finibus dictum magna dolor eget arcu. Duis feugiat tincidunt eros a aliquam. Suspendisse sodales purus et nulla eleifend vestibulum. Curabitur pulvinar sit amet leo non convallis. Pellentesque pretium, ligula feugiat posuere ullamcorper, tortor sem laoreet massa, quis vulputate sapien metus ac urna. Aenean suscipit ullamcorper purus ut fringilla. Vestibulum semper ex cursus leo auctor dapibus. Ut at enim a nibh condimentum venenatis sit amet ut mi. Donec elit neque, hendrerit non augue sed, egestas imperdiet est. Etiam in est orci. Phasellus dignissim ultrices turpis quis pellentesque.
+Πληροφορική Ι: Χρήση Υπολογιστών και Εφαρμογές Γραφείου
+ΕΑΡΙΝΟ
+3
+3
+ΥΠΟΧΡΕΩΤΙΚΟ
+In interdum libero a sapien sollicitudin sodales. Maecenas ex lorem, tincidunt eget nibh quis, fringilla fringilla erat. Suspendisse ut ex felis. Donec in metus suscipit, maximus ex sit amet, condimentum massa. Aenean placerat ante sit amet molestie facilisis. Curabitur egestas risus at diam facilisis aliquet. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris eleifend tincidunt velit, vel tincidunt mauris finibus id. Aenean porttitor sit amet purus at tincidunt. Ut ultricies neque lectus, nec scelerisque nibh placerat et. Mauris gravida tincidunt nisi, ac euismod lorem dapibus a. Maecenas in orci vel magna suscipit efficitur tincidunt quis velit. Nulla sollicitudin tristique eros, in ullamcorper augue convallis at.
+-
+-
+-
+-
+-
+-
+teacher1
+teacher2
+teacher3
+END
+3
+ΚΟΙΝΩΝΙΚΗΣ ΔΙΟΙΚΗΣΗΣ ΚΑΙ ΠΟΛΙΤΙΚΗΣ ΕΠΙΣΤΗΜΗΣ
+ΟΙΚΟΝΟΜΙΚΗ ΕΠΙΣΤΗΜΗ
+Οικονομική Διαχείριση Υπηρεσιών (έμφαση υγεία)
+ΧΕΙΜΕΡΙΝΟ
+4
+4
+ΕΠΙΛΟΓΗΣ
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer placerat venenatis sapien. Maecenas elementum, mi et finibus pulvinar, odio ex auctor erat, finibus dictum magna dolor eget arcu. Duis feugiat tincidunt eros a aliquam. Suspendisse sodales purus et nulla eleifend vestibulum. Curabitur pulvinar sit amet leo non convallis. Pellentesque pretium, ligula feugiat posuere ullamcorper, tortor sem laoreet massa, quis vulputate sapien metus ac urna. Aenean suscipit ullamcorper purus ut fringilla. Vestibulum semper ex cursus leo auctor dapibus. Ut at enim a nibh condimentum venenatis sit amet ut mi. Donec elit neque, hendrerit non augue sed, egestas imperdiet est. Etiam in est orci. Phasellus dignissim ultrices turpis quis pellentesque.
+Οικονομικά της Υγείας
+ΧΕΙΜΕΡΙΝΟ
+3
+3
+ΕΠΙΛΟΓΗΣ
+In interdum libero a sapien sollicitudin sodales. Maecenas ex lorem, tincidunt eget nibh quis, fringilla fringilla erat. Suspendisse ut ex felis. Donec in metus suscipit, maximus ex sit amet, condimentum massa. Aenean placerat ante sit amet molestie facilisis. Curabitur egestas risus at diam facilisis aliquet. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris eleifend tincidunt velit, vel tincidunt mauris finibus id. Aenean porttitor sit amet purus at tincidunt. Ut ultricies neque lectus, nec scelerisque nibh placerat et. Mauris gravida tincidunt nisi, ac euismod lorem dapibus a. Maecenas in orci vel magna suscipit efficitur tincidunt quis velit. Nulla sollicitudin tristique eros, in ullamcorper augue convallis at.
+Ανισότητα, Φτώχεια και Κοινωνικός Αποκλεισμός
+ΕΑΡΙΝΟ
+5
+5
+ΥΠΟΧΡΕΩΤΙΚΟ
+Fusce quis suscipit mauris. Pellentesque dui mi, imperdiet at odio id, fermentum consectetur odio. Sed a pretium massa. Curabitur bibendum ligula at laoreet volutpat. Morbi gravida sapien purus, ac pharetra erat volutpat et. Sed neque mi, mattis viverra aliquam id, feugiat fermentum magna. Nam quis mauris nunc. Nulla a nisi in dui imperdiet tincidunt. Phasellus lobortis tincidunt mauris, ut viverra nulla pulvinar ut.της ανισότητας με προφανείς επιπτώσεις στην διαδικασία χάραξης και αξιολόγησης πολιτικών. Στο πλαίσιο του μαθήματος διερευνάται το ιδιαίτερο νόημα που προσδίδουν στον κοινωνικό αποκλεισμό συγκεκριμένα ευρωπαϊκά και εθνικά προγράμματα. Ιδιαιτέρως στεκόμαστε στην έμφαση που δίνεται στον αποκλεισμό από την αγορά εργασίας και διερευνούμε την έννοια της ενσωμάτωσης η οποία εμφανίζεται ως το επιδιωκόμενο αποτέλεσμα μιας πολιτικής αντιμετώπισης του αποκλεισμού. Συζητείται επίσης η σημασία που αποκτά ο κοινωνικός αποκλεισμός, ως το βασικό εργαλείο προσδιορισμού των στόχων και παρεμβάσεων της κοινωνικής πολιτικής, σε σχέση με τις πιο παραδοσιακές έννοιες της φτώχεια (ή αποστέρησης) και της οικονομικής και κοινωνικής ανισότητας. Τέλος παρουσιάζονται και αναλύονται τα χαρακτηριστικά συγκεκριμένων κοινωνικά αποκλειόμενων ομάδων  του πληθυσμού, όπως αυτές έχουν προσδιοριστεί από συγκεκριμένα Κοινοτικά και Εθνικά προγράμματα και έρευνες, και συζητούνται διεξοδικά οι συγκεκριμένες πολιτικές καταπολέμησης του φαινομένου αυτού.
+teacher1
+teacher2
+teacher3
+END
+4
+ΚΟΙΝΩΝΙΚΗΣ ΔΙΟΙΚΗΣΗΣ ΚΑΙ ΠΟΛΙΤΙΚΗΣ ΕΠΙΣΤΗΜΗΣ
+ΠΟΛΙΤΙΚΗ ΕΠΙΣΤΗΜΗ
+Πολιτική Επικοινωνία
+ΕΑΡΙΝΟ
+2
+2
+ΕΠΙΛΟΓΗΣ
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer placerat venenatis sapien. Maecenas elementum, mi et finibus pulvinar, odio ex auctor erat, finibus dictum magna dolor eget arcu. Duis feugiat tincidunt eros a aliquam. Suspendisse sodales purus et nulla eleifend vestibulum. Curabitur pulvinar sit amet leo non convallis. Pellentesque pretium, ligula feugiat posuere ullamcorper, tortor sem laoreet massa, quis vulputate sapien metus ac urna. Aenean suscipit ullamcorper purus ut fringilla. Vestibulum semper ex cursus leo auctor dapibus. Ut at enim a nibh condimentum venenatis sit amet ut mi. Donec elit neque, hendrerit non augue sed, egestas imperdiet est. Etiam in est orci. Phasellus dignissim ultrices turpis quis pellentesque.
+ΜΜΕ, Διαδίκτυο και Πολιτική
+ΕΑΡΙΝΟ
+3
+3
+ΕΠΙΛΟΓΗΣ
+In interdum libero a sapien sollicitudin sodales. Maecenas ex lorem, tincidunt eget nibh quis, fringilla fringilla erat. Suspendisse ut ex felis. Donec in metus suscipit, maximus ex sit amet, condimentum massa. Aenean placerat ante sit amet molestie facilisis. Curabitur egestas risus at diam facilisis aliquet. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris eleifend tincidunt velit, vel tincidunt mauris finibus id. Aenean porttitor sit amet purus at tincidunt. Ut ultricies neque lectus, nec scelerisque nibh placerat et. Mauris gravida tincidunt nisi, ac euismod lorem dapibus a. Maecenas in orci vel magna suscipit efficitur tincidunt quis velit. Nulla sollicitudin tristique eros, in ullamcorper augue convallis at.
+Συγκριτική Πολιτική ΙΙ
+ΧΕΙΜΕΡΙΝΟ
+3
+3
+ΥΠΟΧΡΕΩΤΙΚΟ
+Fusce quis suscipit mauris. Pellentesque dui mi, imperdiet at odio id, fermentum consectetur odio. Sed a pretium massa. Curabitur bibendum ligula at laoreet volutpat. Morbi gravida sapien purus, ac pharetra erat volutpat et. Sed neque mi, mattis viverra aliquam id, feugiat fermentum magna. Nam quis mauris nunc. Nulla a nisi in dui imperdiet tincidunt. Phasellus lobortis tincidunt mauris, ut viverra nulla pulvinar ut.
+teacher1
+teacher2
+teacher4
+END
+5
+ΟΙΚΟΝΟΜΙΚΩΝ ΕΠΙΣΤΗΜΩΝ
+ΜΑΡΚΕΤΙΝΓΚ
+Μάρκετινκγ
+ΕΑΡΙΝΟ
+5
+5
+ΚΟΡΜΟΥ ΥΠΟΧΡΕΩΤΙΚΟ
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer placerat venenatis sapien. Maecenas elementum, mi et finibus pulvinar, odio ex auctor erat, finibus dictum magna dolor eget arcu. Duis feugiat tincidunt eros a aliquam. Suspendisse sodales purus et nulla eleifend vestibulum. Curabitur pulvinar sit amet leo non convallis. Pellentesque pretium, ligula feugiat posuere ullamcorper, tortor sem laoreet massa, quis vulputate sapien metus ac urna. Aenean suscipit ullamcorper purus ut fringilla. Vestibulum semper ex cursus leo auctor dapibus. Ut at enim a nibh condimentum venenatis sit amet ut mi. Donec elit neque, hendrerit non augue sed, egestas imperdiet est. Etiam in est orci. Phasellus dignissim ultrices turpis quis pellentesque.
+Ηλεκτρονικό Εμπόριο
+ΕΑΡΙΝΟ
+3
+3
+ΚΑΤ’ ΕΠΙΛΟΓΗ ΥΠΟΧΡΕΩΤΙΚΟ
+In interdum libero a sapien sollicitudin sodales. Maecenas ex lorem, tincidunt eget nibh quis, fringilla fringilla erat. Suspendisse ut ex felis. Donec in metus suscipit, maximus ex sit amet, condimentum massa. Aenean placerat ante sit amet molestie facilisis. Curabitur egestas risus at diam facilisis aliquet. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris eleifend tincidunt velit, vel tincidunt mauris finibus id. Aenean porttitor sit amet purus at tincidunt. Ut ultricies neque lectus, nec scelerisque nibh placerat et. Mauris gravida tincidunt nisi, ac euismod lorem dapibus a. Maecenas in orci vel magna suscipit efficitur tincidunt quis velit. Nulla sollicitudin tristique eros, in ullamcorper augue convallis at.
+-
+-
+-
+-
+-
+-
+teacher1
+teacher2
+teacher3
+END
+6
+ΟΙΚΟΝΟΜΙΚΩΝ ΕΠΙΣΤΗΜΩΝ
+ΔΙΕΘΝΕΙΣ ΣΧΕΣΕΙΣ 
+Διεθνείς Σχέσεις και Οικονομική Διπλωματία
+ΧΕΙΜΕΡΙΝΟ
+4
+4
+ΚΑΤ’ ΕΠΙΛΟΓΗ ΥΠΟΧΡΕΩΤΙΚΟ
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer placerat venenatis sapien. Maecenas elementum, mi et finibus pulvinar, odio ex auctor erat, finibus dictum magna dolor eget arcu. Duis feugiat tincidunt eros a aliquam. Suspendisse sodales purus et nulla eleifend vestibulum. Curabitur pulvinar sit amet leo non convallis. Pellentesque pretium, ligula feugiat posuere ullamcorper, tortor sem laoreet massa, quis vulputate sapien metus ac urna. Aenean suscipit ullamcorper purus ut fringilla. Vestibulum semper ex cursus leo auctor dapibus. Ut at enim a nibh condimentum venenatis sit amet ut mi. Donec elit neque, hendrerit non augue sed, egestas imperdiet est. Etiam in est orci. Phasellus dignissim ultrices turpis quis pellentesque.
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+teacher4
+teacher5
+teacher6
+END
+7
+ΙΣΤΟΡΙΑΣ ΚΑΙ ΕΘΝΟΛΟΓΙΑΣ
+ΛΑΟΓΡΑΦΙΑ
+Θρησκευτική και Εθιμική Λαογραφία
+ΧΕΙΜΕΡΙΝΟ
+3
+3
+ΚΑΤ’ ΕΠΙΛΟΓΗ ΥΠΟΧΡΕΩΤΙΚΟ 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer placerat venenatis sapien. Maecenas elementum, mi et finibus pulvinar, odio ex auctor erat, finibus dictum magna dolor eget arcu. Duis feugiat tincidunt eros a aliquam. Suspendisse sodales purus et nulla eleifend vestibulum. Curabitur pulvinar sit amet leo non convallis. Pellentesque pretium, ligula feugiat posuere ullamcorper, tortor sem laoreet massa, quis vulputate sapien metus ac urna. Aenean suscipit ullamcorper purus ut fringilla. Vestibulum semper ex cursus leo auctor dapibus. Ut at enim a nibh condimentum venenatis sit amet ut mi. Donec elit neque, hendrerit non augue sed, egestas imperdiet est. Etiam in est orci. Phasellus dignissim ultrices turpis quis pellentesque.
+Έντεχνος Πεζός Λαϊκός Λόγος
+ΕΑΡΙΝΟ
+4
+4
+ΚΑΤ’ ΕΠΙΛΟΓΗ ΥΠΟΧΡΕΩΤΙΚΟ
+In interdum libero a sapien sollicitudin sodales. Maecenas ex lorem, tincidunt eget nibh quis, fringilla fringilla erat. Suspendisse ut ex felis. Donec in metus suscipit, maximus ex sit amet, condimentum massa. Aenean placerat ante sit amet molestie facilisis. Curabitur egestas risus at diam facilisis aliquet. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris eleifend tincidunt velit, vel tincidunt mauris finibus id. Aenean porttitor sit amet purus at tincidunt. Ut ultricies neque lectus, nec scelerisque nibh placerat et. Mauris gravida tincidunt nisi, ac euismod lorem dapibus a. Maecenas in orci vel magna suscipit efficitur tincidunt quis velit. Nulla sollicitudin tristique eros, in ullamcorper augue convallis at.
+Λαϊκή Τέχνη
+ΕΑΡΙΝΟ
+5
+5
+ΚΑΤ’ ΕΠΙΛΟΓΗ ΥΠΟΧΡΕΩΤΙΚΟ
+Fusce quis suscipit mauris. Pellentesque dui mi, imperdiet at odio id, fermentum consectetur odio. Sed a pretium massa. Curabitur bibendum ligula at laoreet volutpat. Morbi gravida sapien purus, ac pharetra erat volutpat et. Sed neque mi, mattis viverra aliquam id, feugiat fermentum magna. Nam quis mauris nunc. Nulla a nisi in dui imperdiet tincidunt. Phasellus lobortis tincidunt mauris, ut viverra nulla pulvinar ut.
+teacher4
+teacher5
+teacher6
+END
+8
+ΙΣΤΟΡΙΑΣ ΚΑΙ ΕΘΝΟΛΟΓΙΑΣ
+ΒΥΖΑΝΤΙΝΟΣ ΠΟΛΙΤΙΣΜΟΣ
+Εισαγωγή στην Εικονολογία της Βυζαντινής Τέχνης
+ΧΕΙΜΕΡΙΝΟ
+2
+2
+ΕΠΙΛΟΓΗΣ
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer placerat venenatis sapien. Maecenas elementum, mi et finibus pulvinar, odio ex auctor erat, finibus dictum magna dolor eget arcu. Duis feugiat tincidunt eros a aliquam. Suspendisse sodales purus et nulla eleifend vestibulum. Curabitur pulvinar sit amet leo non convallis. Pellentesque pretium, ligula feugiat posuere ullamcorper, tortor sem laoreet massa, quis vulputate sapien metus ac urna. Aenean suscipit ullamcorper purus ut fringilla. Vestibulum semper ex cursus leo auctor dapibus. Ut at enim a nibh condimentum venenatis sit amet ut mi. Donec elit neque, hendrerit non augue sed, egestas imperdiet est. Etiam in est orci. Phasellus dignissim ultrices turpis quis pellentesque.
+Βυζαντινή Ιστοριογραφία
+ΕΑΡΙΝΟ
+3
+3
+ΚΑΤ’ ΕΠΙΛΟΓΗ ΥΠΟΧΡΕΩΤΙΚΟ
+In interdum libero a sapien sollicitudin sodales. Maecenas ex lorem, tincidunt eget nibh quis, fringilla fringilla erat. Suspendisse ut ex felis. Donec in metus suscipit, maximus ex sit amet, condimentum massa. Aenean placerat ante sit amet molestie facilisis. Curabitur egestas risus at diam facilisis aliquet. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris eleifend tincidunt velit, vel tincidunt mauris finibus id. Aenean porttitor sit amet purus at tincidunt. Ut ultricies neque lectus, nec scelerisque nibh placerat et. Mauris gravida tincidunt nisi, ac euismod lorem dapibus a. Maecenas in orci vel magna suscipit efficitur tincidunt quis velit. Nulla sollicitudin tristique eros, in ullamcorper augue convallis at.
+Ελληνικά Κείμενα της Βυζαντινής και Οθωμανικής Εποχής και Διδακτική τους Αξιοποίηση
+ΧΕΙΜΕΡΙΝΟ
+2
+2
+ΕΠΙΛΟΓΗΣ
+Fusce quis suscipit mauris. Pellentesque dui mi, imperdiet at odio id, fermentum consectetur odio. Sed a pretium massa. Curabitur bibendum ligula at laoreet volutpat. Morbi gravida sapien purus, ac pharetra erat volutpat et. Sed neque mi, mattis viverra aliquam id, feugiat fermentum magna. Nam quis mauris nunc. Nulla a nisi in dui imperdiet tincidunt. Phasellus lobortis tincidunt mauris, ut viverra nulla pulvinar ut.
+teacher4
+teacher5
+teacher6
+END
+9
+ΙΣΤΟΡΙΑΣ ΚΑΙ ΕΘΝΟΛΟΓΙΑΣ
+ΠΑΙΔΑΓΩΓΙΚΗ ΚΑΙ ΕΚΠΑΙΔΕΥΣΗ
+Σχολική Παιδαγωγική
+ΕΑΡΙΝΟ
+3
+3
+ΕΠΙΛΟΓΗΣ
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer placerat venenatis sapien. Maecenas elementum, mi et finibus pulvinar, odio ex auctor erat, finibus dictum magna dolor eget arcu. Duis feugiat tincidunt eros a aliquam. Suspendisse sodales purus et nulla eleifend vestibulum. Curabitur pulvinar sit amet leo non convallis. Pellentesque pretium, ligula feugiat posuere ullamcorper, tortor sem laoreet massa, quis vulputate sapien metus ac urna. Aenean suscipit ullamcorper purus ut fringilla. Vestibulum semper ex cursus leo auctor dapibus. Ut at enim a nibh condimentum venenatis sit amet ut mi. Donec elit neque, hendrerit non augue sed, egestas imperdiet est. Etiam in est orci. Phasellus dignissim ultrices turpis quis pellentesque.
+Ιστορία της Εκπαίδευσης στο Ελληνικό Κράτος 
+ΕΑΡΙΝΟ
+3
+3
+ΕΠΙΛΟΓΗΣ
+In interdum libero a sapien sollicitudin sodales. Maecenas ex lorem, tincidunt eget nibh quis, fringilla fringilla erat. Suspendisse ut ex felis. Donec in metus suscipit, maximus ex sit amet, condimentum massa. Aenean placerat ante sit amet molestie facilisis. Curabitur egestas risus at diam facilisis aliquet. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris eleifend tincidunt velit, vel tincidunt mauris finibus id. Aenean porttitor sit amet purus at tincidunt. Ut ultricies neque lectus, nec scelerisque nibh placerat et. Mauris gravida tincidunt nisi, ac euismod lorem dapibus a. Maecenas in orci vel magna suscipit efficitur tincidunt quis velit. Nulla sollicitudin tristique eros, in ullamcorper augue convallis at. 
+Εισαγωγή στην Παιδαγωγική Επιστήμη
+ΧΕΙΜΕΡΙΝΟ
+3
+3
+ΕΠΙΛΟΓΗΣ
+Fusce quis suscipit mauris. Pellentesque dui mi, imperdiet at odio id, fermentum consectetur odio. Sed a pretium massa. Curabitur bibendum ligula at laoreet volutpat. Morbi gravida sapien purus, ac pharetra erat volutpat et. Sed neque mi, mattis viverra aliquam id, feugiat fermentum magna. Nam quis mauris nunc. Nulla a nisi in dui imperdiet tincidunt. Phasellus lobortis tincidunt mauris, ut viverra nulla pulvinar ut. 
+teacher4
+teacher5
+teacher6
+END
+10
+ΙΣΤΟΡΙΑΣ ΚΑΙ ΕΘΝΟΛΟΓΙΑΣ
+ΚΟΙΝΩΝΙΚΗ - ΑΝΑΠΤΥΞΙΑΚΗ ΨΥΧΟΛΟΓΙΑ
+ Εισαγωγή στην Κοινωνική Ψυχολογία
+ΧΕΙΜΕΡΙΝΟ
+4
+4
+ΕΠΙΛΟΓΗΣ
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer placerat venenatis sapien. Maecenas elementum, mi et finibus pulvinar, odio ex auctor erat, finibus dictum magna dolor eget arcu. Duis feugiat tincidunt eros a aliquam. Suspendisse sodales purus et nulla eleifend vestibulum. Curabitur pulvinar sit amet leo non convallis. Pellentesque pretium, ligula feugiat posuere ullamcorper, tortor sem laoreet massa, quis vulputate sapien metus ac urna. Aenean suscipit ullamcorper purus ut fringilla. Vestibulum semper ex cursus leo auctor dapibus. Ut at enim a nibh condimentum venenatis sit amet ut mi. Donec elit neque, hendrerit non augue sed, egestas imperdiet est. Etiam in est orci. Phasellus dignissim ultrices turpis quis pellentesque.
+Θέματα Ψυχο-Κοινωνικής Ανάπτυξης παιδιού και εφήβου
+ΧΕΙΜΕΡΙΝΟ
+4
+4
+ΕΠΙΛΟΓΗΣ
+In interdum libero a sapien sollicitudin sodales. Maecenas ex lorem, tincidunt eget nibh quis, fringilla fringilla erat. Suspendisse ut ex felis. Donec in metus suscipit, maximus ex sit amet, condimentum massa. Aenean placerat ante sit amet molestie facilisis. Curabitur egestas risus at diam facilisis aliquet. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris eleifend tincidunt velit, vel tincidunt mauris finibus id. Aenean porttitor sit amet purus at tincidunt. Ut ultricies neque lectus, nec scelerisque nibh placerat et. Mauris gravida tincidunt nisi, ac euismod lorem dapibus a. Maecenas in orci vel magna suscipit efficitur tincidunt quis velit. Nulla sollicitudin tristique eros, in ullamcorper augue convallis at.
+-
+-
+-
+-
+-
+-
+teacher4
+teacher5
+teacher6
+END

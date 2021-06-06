@@ -1,0 +1,36 @@
+.intro {
+    background-color: lightgrey;
+    color: #4CAF50;
+    width: 99%;
+    border: 8px solid blue;
+    padding: 25px;
+    margin: 25px;
+}
+
+.js_enabled #cookie-message {
+    display: none;
+}
+
+}
+.card-two h1 {
+  position: relative;
+  margin: 80px 0 30px;
+  text-align: center;
+}
+.card-two h1::after {
+  content: '';
+  position: absolute;
+  bottom: -15px;
+  left: 50%;
+  margin-left: -15px;
+  width: 30px;
+  height: 1px;
+  background: #000;
+}
+
+.lessons {
+    border: 1px solid gray;
+    padding: 8px;
+    color: #4CAF50;
+    padding: 40px;
+}

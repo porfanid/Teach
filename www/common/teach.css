@@ -1,0 +1,52 @@
+#js-only { display: none;  } /* Hide if JS disabled */
+.js #js-only  { display: block; } /* Show if JS enabled */
+#noscript{border-top:160px solid #fff;border-bottom:160px solid #fff;}
+.js #noscript { display: none;  } /* Hide if JS enabled */
+
+
+a, a:focus{color:#0088a1;text-decoration:none;cursor:pointer;outline:none;}
+a:hover{color:#000;text-decoration:none;}
+
+#mobile-menu-icon{display:block;height:40px;text-align:center;}
+#mobile-menu-items{display:none;padding:0;}
+.mobile-menu-item{display:block;padding:5px 0 5px 20%;color:#000;background-color:transparent;}
+.mobile-menu-item span{font-weight:bold;font-size:120%;}
+.mobile-menu-item:hover{color:#fff;background-color:#333;}
+.mobile-menu-item.selected{color:#fff;background-color:#775cd7;}
+
+#dl-wrap{position:relative;padding:20px 0;background:#308344;color:#fff;text-align:center;}
+#dl-wrap a{color:#d2d2d2;} #dl-wrap a:hover{color:#fff;}
+.download{display:inline-block;padding-left:30px;min-height:18px;}
+.downloads-block{line-height:1.1;margin:8px 0;display:inline-block;padding:5px 10px;background:#43423f;color:#fff;border-radius:10px;}
+.downloads-block:hover{background:#000;}
+.downloads-block img{vertical-align:middle;}
+.downloads-block span{font-size:90%;color:#fff;}
+
+#bottom-wrap{position:relative;padding:100px 0;color:#d8d8d8;background:rgba(0,0,0,0.7);}
+
+#bottom-logo-wrap{position:relative;padding:0;background:#fff;}
+#bottom-logo-wrap img{max-width:100%;}
+
+
+
+.courses-table{width:100%;}
+.courses-table td{padding:4px 6px;vertical-align:top;text-align:left;border:none;border-bottom:1px solid #eaeaea;border-right:1px solid #eaeaea;}
+.courses-table label{cursor:pointer;color:#775cd7;font-weight:bold;display:block;padding:5px 10px;background:#fff;border-radius:5px;}
+.courses-table label:hover{background:#222;color:#fff;}
+
+
+
+/* grades */
+DIV.table
+{
+    display:table;
+}
+FORM.tr, DIV.tr
+{
+    display:table-row;
+}
+SPAN.td
+{
+    display:table-cell;
+}
+

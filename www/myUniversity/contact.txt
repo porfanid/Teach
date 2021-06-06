@@ -1,0 +1,9 @@
+						<strong>Πανεπιστήμιο xxx </strong>
+						     <br>Ειδικός Λογαριασμός Κονδυλίων Έρευνας
+							<br>Πανεπιστημιούπολη
+							<br>TK xxx, xxx
+							<br>
+							<br>
+							Τηλέφωνο:<abbr title="Τηλέφωνο"></abbr>xxx
+							<br>
+							eMail: <a href="mailto:#">teach at xxx.gr</a>

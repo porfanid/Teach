@@ -1,0 +1,77 @@
+// Dashboard 1 Morris-chart
+$( function () {
+        "use strict";
+        // Extra chart
+        Morris.Area( {
+                element: 'extra-area-chart',
+                data: [
+         {
+                                period: '%%date7%%',
+                                Αιτήσεις: %%applications7%%,
+                                Μαθήματα: %%lessons7%%,
+				Βαθμολογήθηκαν: %%rated7%%
+        }, {
+                                period: '%%date6%%',
+                                Αιτήσεις: %%applications6%%,
+                                Μαθήματα: %%lessons6%%,
+				Βαθμολογήθηκαν: %%rated6%%
+        }, {
+                                period: '%%date5%%',
+                                Αιτήσεις: %%applications5%%,
+                                Μαθήματα: %%lessons5%%,
+				Βαθμολογήθηκαν: %%rated5%%
+        }, {
+                                period: '%%date4%%',
+                                Αιτήσεις: %%applications4%%,
+                                Μαθήματα: %%lessons4%%,
+				Βαθμολογήθηκαν: %%rated4%%
+        }, {
+                                period: '%%date3%%',
+                                Αιτήσεις: %%applications3%%,
+                                Μαθήματα: %%lessons3%%,
+				Βαθμολογήθηκαν: %%rated3%%
+        }, {
+                                period: '%%date2%%',
+                                Αιτήσεις: %%applications2%%,
+                                Μαθήματα: %%lessons2%%,
+				Βαθμολογήθηκαν: %%rated2%%
+        }, {
+                                period: '%%date1%%',
+                                Αιτήσεις: %%applications1%%,
+                                Μαθήματα: %%lessons1%%,
+				Βαθμολογήθηκαν: %%rated1%%
+        }
+ ],
+ 		lineColors: [ '#fc6180', '#26DAD2', '#F04900' ],
+                xkey: 'period',
+                ykeys: [ 'Αιτήσεις', 'Μαθήματα', 'Βαθμολογήθηκαν' ],
+                labels: [ 'Αιτήσεις', 'Μαθήματα', 'Βαθμολογήθηκαν' ],
+                pointSize: 0,
+                lineWidth: 0,
+                resize: true,
+                fillOpacity: 0.8,
+                behaveLikeLine: true,
+                gridLineColor: '#e0e0e0',
+                hideHover: 'auto',
+		xLabels: 'day',
+  		xLabelAngle: 45,
+		xLabelFormat: function (d) {
+    		    var weekdays = new Array(7);
+    		     	weekdays[0] = "ΚΥΡ";
+    		     	weekdays[1] = "ΔΕΥ";
+    			weekdays[2] = "ΤΡΙ";
+    			weekdays[3] = "ΤΕΤ";
+    			weekdays[4] = "ΠΕΜ";
+    			weekdays[5] = "ΠΑΡ";
+    			weekdays[6] = "ΣΑΒ";
+
+    		    return weekdays[d.getDay()] + '-' + 
+           	    ("0" + (d.getDate())).slice(-2) + '-' +
+           	    ("0" + (d.getMonth() + 1)).slice(-2) ; 
+  		}
+
+        } );
+
+
+
+} );
