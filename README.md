@@ -2,6 +2,12 @@
 
 A project that I created for people who have just got their PHD to be able to teach to a public university of Greece. The project is called "πρόγραμμα απόκτησης ακαδημαϊκής εμπειρίας" (academic experience program).
 
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
+
+- [How to use](#how-to-use)
+- [How To Install](#how-to-install)
+
 ## How to use
 
 This app is a web app for applications submitting and online reviewing.
