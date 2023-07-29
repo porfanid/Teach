@@ -1,3 +1,7 @@
+-- update to contain the database name you want
+use teach;
+
+
 create table lessons (
 id INT NOT NULL AUTO_INCREMENT,
 lessonID int(11),

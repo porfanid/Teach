@@ -118,12 +118,13 @@ sudo apt install ./wkhtmltox_0.12.6-1.focal_amd64.deb
 
 ### Set Up
 1. Create a database and the user to use with this app.
+1. Open the script [tables.sql](./tables.sql) and change th first line to use the database you created 
 1. Run the script [tables.sql](./tables.sql) to automatically create the tables
 ```bash 
 mysql -u username -p -h localhost -P 3306 < create_tables.sql
 ```
 > Remember to replace username with the username you provided at the first step
-3. Change the following files:
+4. Change the following files:
     - `www` folder:
         - `config` folderss
             - `config.inc.php`: Contains the configuration for the captcha, the database and if an ldap is to be used, it also contains info about the ldap
